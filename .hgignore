@@ -1,0 +1,9 @@
+syntax: glob
+Temp
+obj
+vs
+Library
+ProjectSettings
+*.sln
+*.csproj
+*.userprefs
