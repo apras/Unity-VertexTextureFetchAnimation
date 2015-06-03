@@ -13,9 +13,11 @@ Unity内で頂点テクスチャアニメーションを実行するサンプル
 #### Assets/Scenes/Sample.unity
 - Sample scene
 - サンプルシーン
+  
 #### Assets/Scripts/VTFAnimation.cs
 - Vertex texture animation script
 - 頂点テクスチャアニメーションスクリプト
+  
 #### Assets/Model/VTF.ms
 - From "3ds Max" is maxscript that outputs the vertex animation texture.
 - "3ds Max"から頂点アニメーションテクスチャを出力するmaxscriptです。
